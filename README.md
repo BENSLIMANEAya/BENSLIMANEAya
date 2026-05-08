@@ -36,13 +36,11 @@ from concept design to real-world product development.
 ---
 
 ## 🚀 Projects
-- 🤖 Autonomous obstacle-avoiding robot  
-- 🦾 Embedded robotic arm control system  
-- ⚡ Sensor-based monitoring system  
-- 🔋 Energy / electromobility embedded solutions
-- 🚗 RFID-Based Car Guidance System 
+-  Autonomous obstacle-avoiding robot  
+-  Embedded robotic arm control system  
+-  Sensor-based monitoring system  
+-  Energy / electromobility embedded solutions
+-  RFID-Based Car Guidance System 
 
 
 
-
-✨ "Engineering is turning ideas into reality."
